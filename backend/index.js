@@ -1,15 +1,27 @@
-const Express = require("express");
+import express from "express";
+import dotenv from "dotenv";
+dotenv.config();
 
-const app = Express();
+import authRoutes from "./routes/auth.js";
+import bookRoutes from "./routes/books.js";
+import createClient from "./db/dao.js";
 
-const PORT = process.env.PORT || 3000;
+const app = express();
+const port = 3000;
 
 app.get("/", (req, res) => {
-	res.send("Hello World!");
+  res.send("Hello World!");
 });
 
-app.listen(3000, () => {
-	console.log(
-		"Server is running on port 3000\nView at http://localhost:3000"
-	);
+app.use("/auth", authRoutes);
+app.use("/books", bookRoutes);
+
+app.listen(port, async () => {
+  console.log(
+    `✅ Backend app listening on port ${port}\nhttp://localhost:${port}`
+  );
+
+  console.log("⌚ Connecting to Database ...");
+  const client = await createClient();
+  console.log("✅ Connected to Database");
 });
