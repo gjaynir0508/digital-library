@@ -4,24 +4,27 @@ dotenv.config();
 
 import authRoutes from "./routes/auth.js";
 import bookRoutes from "./routes/books.js";
+import protectedTestRoutes from "./routes/protectedTest.js";
+
 import createClient from "./db/dao.js";
 
 const app = express();
 const port = 3000;
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+	res.send("Hello World!");
 });
 
 app.use("/auth", authRoutes);
 app.use("/books", bookRoutes);
+app.use("/protected", protectedTestRoutes);
 
 app.listen(port, async () => {
-  console.log(
-    `✅ Backend app listening on port ${port}\nhttp://localhost:${port}`
-  );
+	console.log(
+		`✅ Backend app listening on port ${port}\nhttp://localhost:${port}`
+	);
 
-  console.log("⌚ Connecting to Database ...");
-  const client = await createClient();
-  console.log("✅ Connected to Database");
+	console.log("⌚ Connecting to Database ...");
+	const client = await createClient();
+	console.log("✅ Connected to Database");
 });
