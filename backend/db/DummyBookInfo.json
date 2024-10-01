@@ -1,0 +1,102 @@
+[
+    {
+        "title": " Kill a ToMockingbird",
+        "subtitle": "",
+        "Published":"8 July 2014",
+        "authors": ["Harper Lee"],
+        "rating": 4.9,
+        "description": "One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than thirty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father-a crusading local lawyer-risks everything to defend a black man unjustly accused of a terrible crime",
+        "genre": ["Fiction", "Classics", "Historical"],
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+    {
+        "title": "1984",
+        "subtitle": "",
+        "Published":"30 December 2023",
+        "authors": ["George Orwell"],
+        "rating": 4.8,
+        "description": "George Orwell's iconic novel, 1984, dives deep into dystopian themes, exploring the dangers of totalitarianism and surveillance. Written in a straightforward and blunt style, Orwell's literary context draws from his own experiences in socialist Spain and wartime London. The novel's dark and oppressive atmosphere is magnified by its prophetic warnings about the manipulation of truth and power. The plot follows Winston Smith, a member of the ruling Party who rebels against Big Brother, only to be met with severe consequences for daring to challenge authority. Orwell's use of language is powerful, creating a chilling and thought-provoking narrative that continues to resonate with readers worldwide. George Orwell, a keen observer of political and social trends, wrote 1984 as a response to the rise of totalitarian regimes in the mid-20th century. Influenced by his own disillusionment with authoritarian ideologies, Orwell crafted a cautionary tale that remains relevant in today's society. His background as a journalist and essayist provided him with the tools to dissect complex political systems and expose their inherent dangers. I highly recommend 1984 to readers interested in political philosophy, dystopian literature, or social commentary. Orwell's masterpiece serves as a poignant reminder of the importance of individual freedom and the constant vigilance necessary to protect it.",
+        "genre": ["Fiction", "Dystopia", "Classics"],
+        "cover": "https://books.google.co.in/books/publisher/content?id=ixrmEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2i4J0LPEcfbGG-bfHTZz_EEUNjlw&w=1280"
+    },
+    {
+        "title": "The Great Gatsby",
+        "subtitle": "",
+        "Published":"2024",
+        "authors": ["F. Scott Fitzgerald"],
+        "rating": 4.7,
+        "description": "The Great Gatsby is the anthem of the Jazz Age, the decadent twenties' seminal work, and the ultimate novel about the American Dream.It doesn't matter how many times it's adapted into film. Or theater. Or opera. It's through F. Scott Fitzgerald's masterful prose that the story of the ruthless and extravagant Jay Gatsby, narrated by the honest Nick Carraway, continues to live on as the great American classic.",  
+        "genre": ["Fiction", "Classics", "Historical"],
+        "cover": "https://books.google.co.in/books/publisher/content?id=acb8EAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1nt52okwQBCfd9miir2TxqgdueEQ&w=1280"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "subtitle": "",
+        "Published":"28 June 2024",
+        "authors": ["Jane Austen"],
+        "rating": 4.6,
+        "description": "This is Jane Austen's best-loved and most intimately known novel. From its famous opening sentence, the story of the Bennet family and of the novel's two protagonists, Elizabeth and Darcy, told with a wit that its author feared might prove 'rather too light and bright, and sparkling', delights its most familiar readers as thoroughly as it does those who encounter it for the first time. And while she entertains us, she teaches us the wisdom of balance, the folly of 'pride' and 'prejudice'.",
+        "genre": ["Fiction", "Romance", "Classics"],
+        "cover": "https://books.google.co.in/books/content?id=kQ0mAAAAMAAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U37zPGoOr2IU2f0PCVIexnC5nPGag&w=1280"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "subtitle": "",
+        "Published":"28 June 2024",
+        "authors": ["J.D. Salinger"],
+        "rating": 4.5,
+        "description": "The novel is set in the 1950s and follows Holden, a 16-year-old who has just been expelled from his prep school, Pencey Prep. Disillusioned with the world around him, Holden decides to leave Pencey early and spend a few days alone in New York City before returning home. Over the course of these days, Holden interacts with various people, including old friends, a former teacher, and strangers, all the while grappling with his feelings of loneliness and dissatisfaction",
+        "genre": ["Fiction", "Classics", "Young Adult"],
+        "cover": "https://m.media-amazon.com/images/I/91fQEUwFMyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Moby-Dick",
+        "subtitle": "",
+        "Published":"2004",
+        "authors": ["Herman Melville"],
+        "rating": 4.3,
+        "description": "Looking for adventure and a new life, Ishmael, the story's narrator, decides to find work on a whaling boat. On arriving at the Massachusetts harbour to begin his search, the only bed available is already half occupied by a cannibal named Queequeg. Although Queequeg has limited English, a friendship forms and the two men sign up for work together aboard the Pequod under the infamous Captain Ahab.",
+        "genre": ["Fiction", "Classics", "Adventure"],
+        "cover": "https://books.google.co.in/books/content?id=cyrMu-gkGQQC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U00eaWZgj0FjvrHUpX5feSpc58pJg&w=1280"
+    },
+    {
+        "title": "War and Peace",
+        "subtitle": "",
+        "Published":"1889",
+        "authors": ["Leo Tolstoy"],
+        "rating": 4.8,
+        "description": "Backgrounds and Sources includes the publication history of War and Peace, selections from Tolstoy's letters and diaries as well as three drafts of his introduction to the novel that elucidate the its evolution, and an 1868 article by Tolstoy in which he reacts to his critics.",
+        "genre": ["Fiction", "Historical", "Classics"],
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFE4t7mTCTtmJu35gJkt79mOoymSLPeifShw&s"
+    },
+    {
+        "title": "Brave New World",
+        "subtitle": "",
+        "Published":"July 20110",
+        "authors": ["Aldous Huxley"],
+        "rating": 4.4,
+        "description": "A dystopian vision of the future where technology and social engineering control every aspect of life.",
+        "genre": ["Fiction", "Dystopia", "Science Fiction"],
+        "cover": "https://books.google.co.in/books/publisher/content?id=TIJ5EAAAQBAJ&pg=PA1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2JlLvNK0vtUaarLbxxyYX586j6ZA&w=1280"
+    },
+    {
+        "title": "The Hobbit",
+        "subtitle": "",
+        "Published":"18 September 2012",
+        "authors": ["J.R.R. Tolkien"],
+        "rating": 4.9,
+        "description": "Bilbo Baggins, a hobbit who lives in a hole in the ground, accompanies Thorin Oakenshield and his band of dwarves on a quest to recover the gold stolen from them by the evil dragon Smaug. At journey's end, after facing trolls, goblins, giant spiders, and worse, Bilbo discovers his destiny.",
+        "genre": ["Fiction", "Fantasy", "Adventure"],
+        "cover": "https://m.media-amazon.com/images/I/71jKeGU9nKL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Jane Eyre",
+        "subtitle": "",
+        "Published":"1864",
+        "authors": ["Charlotte Brontë"],
+        "rating": 4.7,
+        "description": "Bronte’s novel about a shy, quiet governess who becomes a tutor in a great house and falls in love with its lonely and mysterious master is one of the great classics of English literature. Unique in its attention to the thoughts and feelings of a female protagonist, Jane Eyre was ahead of its time as a proto-feminist text. When it was published in 1847, however, Bronte was attacked by critics for what they felt was anti-Christian sentiment in her unflinching critique of the oppressions of Victorian society.",
+        "genre": ["Fiction", "Romance", "Classics"],
+        "cover": "https://m.media-amazon.com/images/I/61N-UOA0alL._UF1000,1000_QL80_.jpg"
+    }
+]
